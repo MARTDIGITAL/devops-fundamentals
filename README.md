@@ -9,3 +9,4 @@ Team Functionalities and Roles </h1>
 </ul>
 <h1>Developers</h1>
 <p>they work on both front end and back end bridging the gap between server and the clients. They are responsible for creating design, coding and also integrating code into divers work platforms.</p>
+
